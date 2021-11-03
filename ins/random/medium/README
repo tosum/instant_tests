@@ -1,0 +1,2 @@
+generated using:
+python3 gen_random.py ins/random/medium 100 10 10 100000
