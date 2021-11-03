@@ -20,3 +20,6 @@ As long as testing doesn't stop everything should be ok.
  * `examples` - examples provided with the task
  * `other_examples` - some other examples taken from https://github.com/mluszczyk/mrjp-instant/tree/master/examples
  * `random` - random tests generated using `gen_random.py`. No division because it's hard.
+ * `parsing` - tests for tricky parser inputs
+
+
