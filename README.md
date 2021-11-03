@@ -12,6 +12,10 @@
    Checks that `.limit locals` and `.limit stack` are exactly as they it should be\
    Decreases `.limit locals` and `.limit stack` by one and checks that the program crashes
 
+### Error spam
+There might be some errors printed during testing, but it's ok.\
+As long as testing doesn't stop everything should be ok.
+
 ### Tests
  * `examples` - examples provided with the task
  * `other_examples` - some other examples taken from https://github.com/mluszczyk/mrjp-instant/tree/master/examples
